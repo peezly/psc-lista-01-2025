@@ -13,9 +13,9 @@ public class Main
         // pede o nuemro
         System.out.print("Digite um número qualquer: ");
         int numero = scanner.nextInt();
-        // Exibe o número informado
+        // exibe o numero informado
         System.out.println("Número escolhido: " + numero + " foi o numero escolhido");
-        // Fecha o scanner
+        // fecha o scanner
         scanner.close();
 	
 	}
